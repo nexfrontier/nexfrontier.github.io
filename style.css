@@ -615,7 +615,7 @@ body.has-fine-pointer .cursor-glow { opacity: 1; }
 .work-grid {
   margin-top: 48px;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 24px;
 }
 .work-card--wide { grid-column: span 2; }
