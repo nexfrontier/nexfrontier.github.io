@@ -602,6 +602,9 @@ body.has-fine-pointer .cursor-glow { opacity: 1; }
   color: rgba(10,12,22,0.4);
   margin-bottom: 16px;
 }
+.team-avatar img{
+  border-radius: 16px;
+}
 .team-card h3 { font-size: 16px; margin: 0 0 2px; }
 .team-role { font-size: 13.5px; color: var(--muted); margin: 0; }
 
